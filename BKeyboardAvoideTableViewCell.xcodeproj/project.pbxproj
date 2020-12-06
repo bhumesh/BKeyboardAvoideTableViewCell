@@ -16,6 +16,7 @@
 		180A9370257C7DA3003AC207 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 180A936E257C7DA3003AC207 /* LaunchScreen.storyboard */; };
 		180A937B257C7DA3003AC207 /* BKeyboardAvoideTableViewCellTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 180A937A257C7DA3003AC207 /* BKeyboardAvoideTableViewCellTests.swift */; };
 		180A9386257C7DA3003AC207 /* BKeyboardAvoideTableViewCellUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 180A9385257C7DA3003AC207 /* BKeyboardAvoideTableViewCellUITests.swift */; };
+		180A9394257C7E9B003AC207 /* TextFieldCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 180A9393257C7E9B003AC207 /* TextFieldCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		180A9381257C7DA3003AC207 /* BKeyboardAvoideTableViewCellUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BKeyboardAvoideTableViewCellUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		180A9385257C7DA3003AC207 /* BKeyboardAvoideTableViewCellUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BKeyboardAvoideTableViewCellUITests.swift; sourceTree = "<group>"; };
 		180A9387257C7DA3003AC207 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		180A9393257C7E9B003AC207 /* TextFieldCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				180A9360257C7D9D003AC207 /* AppDelegate.swift */,
 				180A9362257C7D9D003AC207 /* SceneDelegate.swift */,
 				180A9364257C7D9D003AC207 /* ViewController.swift */,
+				180A9393257C7E9B003AC207 /* TextFieldCell.swift */,
 				180A9366257C7D9D003AC207 /* Main.storyboard */,
 				180A936C257C7DA3003AC207 /* Assets.xcassets */,
 				180A936E257C7DA3003AC207 /* LaunchScreen.storyboard */,
@@ -266,6 +269,7 @@
 				180A9361257C7D9D003AC207 /* AppDelegate.swift in Sources */,
 				180A9363257C7D9D003AC207 /* SceneDelegate.swift in Sources */,
 				180A936B257C7D9D003AC207 /* BKeyboardAvoideTableViewCell.xcdatamodeld in Sources */,
+				180A9394257C7E9B003AC207 /* TextFieldCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
